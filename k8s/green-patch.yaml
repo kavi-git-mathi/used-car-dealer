@@ -1,0 +1,4 @@
+spec:
+  selector:
+    app: used-car-dealer
+    version: green
